@@ -4,6 +4,9 @@ This project predicts the sentiment of a restaurant review as Positive, Neutral,
 
 The web app lets you paste a review and see a small bar chart with the three class probabilities.
 
+
+![Demo Sentiment Analysis](Demosentimentanalysis.gif)
+
 ---
 
 # Dataset
